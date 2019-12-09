@@ -85,7 +85,7 @@ values(1,"刘梅",1,1,1);
 drop
 show  procedure status like'sp%' \G;
 公网IP：49.235.2.175
-默认账户为 Administrator ，初始密码为 6d2adffhVm
+默认账户为 Administrator ，初始密码为 6d2adffhVm;
 
 
 
